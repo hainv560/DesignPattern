@@ -1,4 +1,4 @@
-package com.hainv.builder.factory;
+package com.hainv.factory;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

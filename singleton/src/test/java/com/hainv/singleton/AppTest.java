@@ -1,4 +1,4 @@
-package com.hainv.builder.abstractfactory;
+package com.hainv.singleton;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

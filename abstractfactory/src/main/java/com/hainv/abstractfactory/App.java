@@ -1,4 +1,4 @@
-package com.hainv.builder.abstractfactory.singleton;
+package com.hainv.abstractfactory;
 
 /**
  * Hello world!
